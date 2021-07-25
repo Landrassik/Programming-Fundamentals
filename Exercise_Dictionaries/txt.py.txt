@@ -1,1 +1,19 @@
-lol
+
+C:\Users\Vova\Desktop\Exercise_Dictionaries>git init
+
+C:\Users\Vova\Desktop\Exercise_Dictionaries>git clone https://github.com/Vladimir-Strelec/Programming-Fundamentals.git
+
+C:\Users\Vova\Desktop\Exercise_Dictionaries>git status
+
+C:\Users\Vova\Desktop\Exercise_Dictionaries>git add -A                    (add .)
+
+C:\Users\Vova\Desktop\Exercise_Dictionaries>git commit -m "Add Exercise Dict."
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+C:\Users\Vova\Desktop\Exercise_Dictionaries>git config user.name "Vladimir-Strelec"             +
+                                                                                                +
+C:\Users\Vova\Desktop\Exercise_Dictionaries>git config user.email "vovik050Github@gmail.com"    +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+C:\Users\Vova\Desktop\Exercise_Dictionaries>git remote add origin https://github.com/Vladimir-Strelec/Programming-Fundamentals
+
